@@ -1,0 +1,26 @@
+html{
+    background-color: #333232;
+    height: 100%;
+}
+
+#container{
+    height: 300px;
+    width: 550px;
+    background-color: #F5E4C3;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #888169;
+}
+
+#output{
+    font-size: 50px;
+    text-align: center;
+}
+
+#date{
+    font-size: 50px;
+    text-align: center;
+}
